@@ -1,0 +1,296 @@
+Address,Latitude,Longitude,Deaths
+"Srikakulam,Etcheria",18.2791,83.81917,12
+"West Godavari,Tanuku Rural",16.75658,81.67697,22
+"West Godavari,Eluru Rural",16.71066,81.09524,19
+"West Godavari,Chebrolu",16.82895,81.39218,16
+"Nellore,Kaavali",14.4426,79.98646,40
+"Kurnool,Papili",15.82813,78.03728,25
+"Kurnool,Orvakal",15.68406,78.17782,23
+"Kurnool,Dhone",15.39604,77.87324,34
+"Karimnagar,Koratla",18.82534,78.7148,36
+"Medak,Zaheerabad
+  Town",18.05294,78.26185,29
+"Medak,Zaheerabad To",18.05294,78.26185,23
+"Medak,Sangareddy
+  Rural",18.05294,78.26185,14
+"Nizamabad,Sadasiva Naga",18.6725,78.09409,14
+"Nizamabad,Balakonda",18.86964,78.33586,44
+"Nizamabad,Aarmur",18.78996,78.28813,18
+Adilbad Indaram,19.65688,78.55181,18
+"Hyderabad,Rajendra Naga",17.32203,78.40229,17
+"Hyderabad,Chaitanyapuri",17.37596,78.53706,28
+"Hyderabad,Uppal",17.39838,78.55827,44
+"Hyderabad,Medchal",17.63234,78.48048,54
+"Hyderabad,Miyapur",17.5169,78.34283,23
+"Mahabubnagar,Kothur",17.14735,78.2889,18
+"Mahabubnagar,Kodandapur",16.74884,78.00352,32
+"Nalgonda,Chouluppal",17.24894,78.89681,34
+"Nalgonda,Chouluppal",17.24894,78.89681,28
+"Gandhinagar District
+  Gandhinagar Range,Village Jethipura Board",23.16334,72.7043,2
+"Subarkantha District
+  Gandhinagar Range,Shamlaji Town Road",23.21564,72.63694,8
+"Kheda District
+  Ahmedabad Range,Near Hariyana Bye pass Y Point",23.02251,72.57136,3
+"Anand District
+  Ahmedabad Range,Village Vasad Cross Road",23.02251,72.57136,6
+"Banaskantha District
+  Border Range Bhuj,Village Chandisar Cross Road
+  Near Bus Stop",24.21418,72.31039,9
+"Rajkot Rural Rajkot
+  Range,Village Shapar-Veraval",22.15725,70.79908,20
+"Rajkot Rural Rajkot
+  Range,Village Pardi Board",22.30389,70.80216,7
+"Rajkot Rural Rajkot
+  Range,Village Pardi Sim Near Shitala
+  Mataji Temple",22.30389,70.80216,13
+"Rajkot Rural Rajkot
+  Range,Village Maliya-Halvad Cross
+  Road",22.30389,70.80216,4
+"Junagadh District
+  Junagadh Range,Village Gadu to Village
+  Santipara",21.52222,70.45794,12
+"Junagadh District
+  Junagadh Range,Village Vadal Board",21.61129,70.49696,5
+"Bhavnagar District
+  Junagadh Range,Near Village Budhel Board",21.52222,70.45794,3
+"Bhavnagar District Junagadh Randge,Viilage Talaja To Village Velavadar",21.35143,72.03272,18
+"Bharuch District Vadodara Range,Sardar bridge South side Ankleshvar citi",22.30716,73.18122,6
+"Surat District Surat
+  Range,Near Village Kim Cross Road
+  Pipodara",21.24161,72.81343,10
+"Surat District Surat
+  Range,Village Kamrej Sugar Factor",21.33406,72.96303,14
+"Surat District Surat
+  Range,Village Dhoran Pardi",21.3134,72.96451,14
+"Surat District Surat
+  Range,Village Kholvad Cross Road",21.2798,72.94753,15
+"Surat District Surat
+  Range,Village Vav to Village Ubhel
+  Road",21.17024,72.83106,18
+"Surat District Surat
+  Range,Kadodara Bridge to Village
+  Chalthan Road",21.19344,72.85212,12
+"Surat District Surat
+  Range,Village Khadak Pardi Board",21.2074,72.89361,9
+"Surat District Surat
+  Range,Village Sonvada Board",21.21037,72.85884,11
+"Tapi District Surat
+  Range,Village Bajipura T Joint",21.09293,73.27948,10
+"Tapi District Surat
+  Range,Village Bajipura Near Sumul
+  Dairy",21.17024,72.83106,12
+"Tapi District Surat
+  Range,Village Mayapur Opp, Seventh
+  Day School",21.17024,72.83106,9
+"Ambala,In front of Bus/Railway Station,
+ Ambala",30.3752,76.78212,23
+"Hisar,Barwala Chowk
+ Bypass",29.36419,75.90568,19
+"Hisar,Bus Terminal, Hansi",29.09726,75.96382,19
+"Panchkula,Ram Garh Chowk",30.69421,76.86057,13
+"Kaithal,Ambala Bypass Naka",29.80428,76.4039,27
+"Kaithal,Titaram More",29.71897,76.40276,26
+"Kaithal,Shahar Pundari",29.7621,76.5546,51
+"Sonepat,Bahalgarh Chowk",28.96116,77.09326,67
+"Sonepat,Hasanpur Cut",28.99308,77.01507,10
+"Panipat,Gaon Siwah Cut",29.34116,76.98318,14
+"Panipat,Sector 29 Cut",29.35288,76.98447,16
+"Panipat,Police Line Cut",29.39095,76.9635,24
+"Panipat,Gaon Jattipur Cut",29.39095,76.9635,16
+"Palwal,Kitwabi Chowk,
+ Aligarh Road",28.14729,77.32599,7
+"Palwal,Bus Terminal",28.14722,77.33352,7
+"Faridabad,Mewla Road Cut",28.40891,77.31779,31
+"Faridabad,DLF Cut",28.40891,77.31779,30
+"Faridabad,YMCA Chowk",28.3682,77.31522,60
+"Faridabad,Gaon Sikri Cut",28.40891,77.31779,54
+"Faridabad,Mewla Road Cut",28.40891,77.31779,31
+"Gurgaon,Narsinghpur",28.4595,77.02664,18
+"Gurgaon,Khadsa Bus Stand",28.42227,76.99993,51
+"Gurgaon,Hero Honda Chowk",28.42933,77.02014,105
+"Gurgaon,Rajeev Chowk",28.44737,77.02611,86
+"Thane/Manor,Kude to Sativali",19.4104,72.87765,46
+"Thane/Ghoti,Old kasara Ghat",19.21833,72.97809,46
+"Satara/Karad,Malkapur",17.26155,74.17734,40
+"Pune/Khandala,Waksai",18.765,73.45383,36
+"Jalgaon/Paldhi,Serve Town Chowk",21.02453,75.45486,36
+"Jalgaon/Paldhi,Wadjai Nala",18.4314,73.97982,32
+"Thane/Manor,Saykhed Hawali",20.01423,74.00798,32
+"Pune/Wadgaon,Wadgaon Fata",18.52043,73.85674,27
+"Satara/Karad,Kashil",17.27769,74.18435,26
+"Thane/Shahapur,Kalambe",19.45208,73.32796,26
+"Thane/Charoti,Amboli",15.96472,74.00357,22
+"Raigad/Mahad,Sukeli Phata",18.48756,73.18806,22
+"Satara/Karad,Masur Fata",17.31147,74.18754,21
+"Osmanabad/Naldurga,Naldurga Ghat",17.81667,76.27398,19
+"Jalgaon/Paldhi,Eklagna Gaon",21.02453,75.45486,18
+"Jalgaon/Paldhi,Avtar Dhaba",21.02453,75.45486,18
+"Thane/Shahapur,Umbarmali",19.45208,73.32796,17
+"Pune/Wadgaon,Kamshet",18.52043,73.85674,17
+"Thane/Charoti,Warwada",19.21833,72.97809,15
+"Pune/Vadgaon,Center Chowk(Dehu
+ Road)",18.68603,73.74771,15
+"Nagpur/Ramtek,Vadoda",22.30716,73.18122,13
+"Osmanabad/Naldurga,Malup Shivar",17.81667,76.27398,12
+"Kolhapur/Ujalaiwadi,Topgaon to Kasar Wadi",16.66871,74.26896,11
+"Raigad/Palaspe,Jeetegaon",18.95351,73.12906,10
+"Buldhana/Malkapur,Dasarkhed",20.96088,76.18417,9
+"Jabalpur,Mausan, Kachhpura, Barnutiraha, Khital,
+ Uldana Pulia",23.16858,79.93388,10
+"Jabalpur,Kalari, Mohtas, Gausalpur, Sanaskara,
+ Pahreva Naka",23.16858,79.93388,12
+"Jabalpur,Bajrangwada, Bargi Mohala",23.16858,79.93388,11
+"Jabalpur,Chakahanala, Burjhai Tiraha, Moiliya
+ Tiraha, Phutataal",23.16858,79.93388,12
+"Jabalpur,Usvair Tiraha, Kadrakhada, Kevalachi",23.16858,79.93388,19
+"Bhopal,Samardha",23.33225,77.58272,12
+"Bhopal,Baagsevnia",23.19451,77.46219,16
+"Bhopal,Anandnagar",23.25201,77.48566,11
+"Bhopal,Ayodhaya Bypass",23.27484,77.46766,13
+"Bhopal,Sihore Bypass",23.19566,77.11545,11
+"Mandsor,Malhar Kasba",24.07344,75.0679,12
+"Mandsor,Suthod",24.25473,74.99905,10
+"Mandsor,Piplayamandi Chaupati, Bahi Pasharvnath Phanta, Bottleganj Chaupati, Naka No. 10",24.07344,75.0679,13
+"Shivpuri,Near Vill. Ishvari and between Kulhari",25.43205,77.66438,13
+"Shivpuri,Kasba Badwas",25.43205,77.66438,12
+"Shivpuri,From Bhagora to Amolaha",25.43205,77.66438,12
+"Shivpuri,Between Old Keshar Amolaha and
+ Shivhare Dhaba Veerpur",25.43205,77.66438,10
+"Shivpuri,Between New Amola No. 1 and 2",25.43205,77.66438,14
+"Shivpuri,From Padora to Majhera",25.43205,77.66438,16
+"Neemach,",24.47377,74.87265,12
+"Neemach,Sagar Gram Pulia",24.47377,74.87265,10
+"Panna,From village Manor to Harsa More (16
+ kms)",24.71746,80.18141,15
+"Vishwakarma Jaipur West,Road No. 1, 5, 6, 9, 12,
+ 14 Vishwakarma Area",26.97443,75.78226,15
+"Chomu Jaipur
+ West,Jaitpura",27.12488,75.73026,3
+"Bagru Jaipur West,Thikriya More",26.80781,75.54017,5
+"Bagru Jaipur
+ West,Bhakrota",26.80781,75.54017,9
+"T.P. Nagar
+ Jaitpur East,Ghat ki Guni Agra Road",26.89349,75.8581,4
+"Kanauta Jaipur East,Mali ki Kothi Bagrana",26.87851,75.92578,9
+"Bajaj Nagar
+ Jaipur East,Tonk Pulia and nearby",26.86575,75.80131,1
+"Chaksu Jaipur
+ South,Chaksu",26.60346,75.9436,41
+"Shivdaspura
+ Jaipur South,Shivdaspura",26.71125,75.89551,19
+"Shyamnagar
+ Jaipur South,Shalimar Bagh to Ajmer
+ road crossing",26.91243,75.78727,6
+"Shahapura Jaipur Rural,Bhabhru",27.38429,75.96114,13
+"Bahrod Alwar,Bahrod",27.89468,76.28203,9
+"Sadar Dausa,Bhandarej More",26.88216,76.42594,25
+"Mania Dhaulpur,Mania",26.81944,77.91817,7
+"Sumerpur Pali,Kasba Sumerpur",25.15264,73.08228,5
+"Sirohi,Barighata",24.88515,72.85746,5
+"Sukher Udaipur,Cheerwaghata to
+ Amrakhaji More",24.64767,73.7183,7
+"Thana Sukher
+ Udaipur,Bhuwana Bypass",24.62242,73.70805,9
+"Thana Sukher
+ Udaipur,Kailashpuri",24.64767,73.7183,8
+"Pratapnagar Udaipur,Pratapnagar Crossing",24.59007,73.74751,13
+"Gaurdhan Vilas Udaipur,Balicha Chauraha",24.58545,73.71248,3
+"Byawar Sadar
+ Ajmer,Rani Sagar Kharwa",26.4499,74.63992,16
+"Madanganj
+ Ajmer,Chiriya Bawari",26.58393,74.84967,10
+"Bandar Sindri
+ Ajmer,Patan Tiraya",26.59812,75.03729,5
+"Kancheepuram,Ponnerikarai to White gate between 2 k.m.",12.81846,79.69466,60
+"Kancheepuram,1. Panapakkam Road JN.
+ 2. Dhamal By-pass
+ 3. Baluchetty chatram By-Pass
+ 4. Ariyaperum-bakkam Road JN.
+ 5. Chitherimedu JN. Between 3 km",12.83816,79.70433,34
+"Kancheepuram,Mevalurkuppam Irungattukottai Pennalore Mambakkam. between 3.5 KM.",13.00406,79.99372,73
+"Kancheepuram,Thirumangalam Senthamangalam Dharkas Pillaichatram. 3 KM.",11.28134,78.23579,27
+"Kancheepuram,1.Paranu Bus stop 1/2 Km
+ 2. Paranur Bridge 1 km
+ 3. Rajakulipettai 1 km
+ 4. Pulipakkam JN road 2 km
+ 5. Pazhzveli hills 1/2 km
+ 6. Pazhaveli near Vaigai Hotel - 1 km
+ 7. Vithiya Sagar Womens College,
+ Vethanarayanapuram 1/2",12.67017,79.95744,49
+"Kancheepuram,Thailavarm to Urapakkam Juction Between 5km",12.86737,80.06986,45
+"Kancheepuram,Vandalur Sign & New Bridge, 4
+ Km",12.89126,80.081,28
+"Kancheepuram,S.P. Koil Junction 5 Km Kattankulathur 3 Km Maraimalai
+ Nagar Â½ km",12.823,80.04472,62
+"Villupuram,1. Onkur check post
+ 2. Saram
+ 3. Pathiri between 5 K.m",11.93373,79.48625,51
+"Villupuram,Tindivanam Junction Between 2 KM.",12.22668,79.65035,37
+"Villupuram,1. Jakkampet
+ 2. Mailam x road
+ 3. Kedipattu
+ 4. Sendur x road,between 4 KM.",12.1447,79.47039,77
+"Villupuram,1. Mundiyam-pakkam Jn",11.9976,79.51579,50
+"Villupuram,1. Sithani",11.94014,79.48614,52
+"Villupuram,Vridhachalam to Ulundurpet bypass between 1.5 KM",11.51587,79.32689,27
+"Villupuram,Arasur Jn bypass crossing between
+ 6 KM",11.94014,79.48614,40
+"Villupuram,Kedilam road bypass Jn between
+ 10 KM",11.94014,79.48614,29
+"Villupuram,1. Trichy bypass
+ 2. Salem Bypass between 4 KM",11.66433,78.14601,40
+"Villupuram,Gingee bypass to Viluppuram Jn.
+ Between 2 KM",11.95338,79.49233,25
+"Cuddalore,Total 30 Cases 7 to 10 Kms",11.74804,79.77137,30
+"Cuddalore,Total 11 Cases 8 to 10 kms",11.74804,79.77137,23
+"Salem,Omalr to Deevattipatty R.C. Chettipatty, Thanneerthotty, Jodukuli junction, Santhai thadam",11.81909,78.06415,72
+"Salem,10 kms Vaigundam to Sangagiri, Konganapuram pirivu road, Akkamapet Mangarangampalayam",11.47963,77.88872,31
+"Nagapattinam,Sirkali to Senthankudi 32
+ km 36 km",11.23909,79.73612,23
+"Aligarh,Kayampur More (125 m)",27.89739,78.08801,169
+"Lucknow,Faizabad Road/ Ring Road (3-4 k.m.)",26.8044,81.54306,24
+"Mathura,Jaigurudev Ashram (1
+ k.m.)",27.47558,77.65715,100
+"Kanpurnagar,Ramadevi Crossing",26.41141,80.38695,38
+"Unnav,Dahi (1/2 km)",26.53934,80.48782,52
+"Firozabad,Tundala (1-1 km)",27.22638,78.24254,60
+"Lalitpur,Mahroni (1 to 1.5 kms)",24.58194,78.72284,19
+"Moradabad,PAC T. Kanth Road (1-1.5
+ kms)",28.86714,78.74804,44
+"Bareilly,Rampura (1 to 2 kms)",28.36704,79.43044,31
+"Agra,Sabzimandi (500 m)",27.21176,78.02952,30
+"Fatehpur,Gram Nauwabag (200 m)",25.93022,80.79471,33
+"Mainpuri,Kasba Bewar (1 km)",27.22819,79.02517,48
+"Bijnaur,Kiratpur Road (0.5 to 1 km)",29.38645,78.14374,38
+"Saharanpur,Devband GT Road (1 km)",29.68802,77.68205,22
+"Chitrakut,Karvi (1 km)",25.17882,80.86545,16
+"Faizabad,Town Area (3-4 kms)",26.77298,82.14579,14
+"Shahajahanpur,Jumka (1.5 kms)",27.87534,79.91473,7
+"Kaushambhi,Saini (2 kms)",25.36105,81.40317,23
+"Gorakhpur,Ramudih (1 km)",26.76055,83.37317,35
+"Auraiya,Kasba Ajitmal (2 to 2.5 kms)",26.57066,79.3131,11
+"Mirzapur,Adal Haat (1 km)",25.13056,83.0348,30
+"Allahabad,Phaphamau Tiraha (500
+ m)",25.52167,81.86668,14
+"JALPAIGURI,Teesta Bridge, Paharpur to Assam More Talmahat, Kotwali PS, Teesta Bridge to Talmahat 20 Kms.",26.57301,88.72534,3
+"NADIA,Katwa More, Kaliganj PS, Vagachandpur more to Radhakantapur more 6 Kms.",23.73237,88.22908,2
+"NADIA,Chakdah Chowrastha More, Chakdah, Kalagachha to Chakdah Chowrastha
+ more 3 Kms.",23.07652,88.52933,1
+"COOCHBEHAR,Khagrabari Morh, Kotwali PS, Khagrabari chowpathi to Girijabari more 1 Km.",26.32388,89.45089,2
+"MURSHIDABAD,Barua Crossing, Beldanga PS, Pratirodhi Club to Beldanga Hut 200 Mtrs.",23.94058,88.23395,5
+"HOOGHLY,F.C.I. Crossing, Dankuni PS, Dankuni more to Maitypara 1 1/2
+ Kms.",22.68668,88.29579,5
+"NORTH 24-PGS,Doltala Xing, Barasat PS, Sahara Bridge to Madhyamgram 1 1/2 Kms.",22.68251,88.46043,0
+"NORTH 24-PGS,Duk-Bunglow More xing, Barasat PS, Rathtala to Dukbanglow more 1/2 Km.",22.71799,88.48014,2
+"NORTH 24-PGS,Champadali more, Barasat PS, Sethpukur more to Fish Market more 1/2 Kms.",22.72075,88.48579,3
+"U/DINAJPUR,Purnia more, Karandighi PS, Dalkhola to Purnia more 2 Kms.",25.81541,87.91912,0
+"BURDWAN,Burdwan (S) Palh, Sreerampur more, Burdwan (s) PS, Nababhut to DVC more 3 Kms.",23.23244,87.86149,4
+"BURDWAN,Khana Junction more, Galsi PS, Surul more to Kulgeria Sako 3 Kms.",23.32154,87.76896,4
+"BURDWAN,Panagar Bazar, Kanksa PS, Railover bridge to Darjeeling more 3.2 Kms.",23.45357,87.44751,7
+"HOWRAH RURAL,Dhulagarh Xing, Sankrail PS, New korola to Dhulagarh Toll Plazza 200 Mts.",22.53386,88.22903,5
+"HOWRAH RURAL,Ankurhati Xing, Domjur PS, Prasastha to Ankurhati Anchal 1 Km.",22.63384,88.22097,7
+"PURBA MEDINIPUR,Deaulia Bazar, Kolaghat PS, Borda more to Haldia more 1 1/2 Kms.",22.43709,87.83976,4
+"PURBA MEDINIPUR,Kanchi, Nandakumar PS,
+ Hatgeria to Bankrabandh 1
+ 1/2 Kms.",21.93729,87.77633,4
